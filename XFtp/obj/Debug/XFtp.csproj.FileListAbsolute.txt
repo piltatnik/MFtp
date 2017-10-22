@@ -1,0 +1,6 @@
+F:\Workspace\Test_projects\XFtp\XFtp\bin\Debug\XFtp.exe.config
+F:\Workspace\Test_projects\XFtp\XFtp\obj\Debug\XFtp.csprojResolveAssemblyReference.cache
+F:\Workspace\Test_projects\XFtp\XFtp\bin\Debug\XFtp.exe
+F:\Workspace\Test_projects\XFtp\XFtp\bin\Debug\XFtp.pdb
+F:\Workspace\Test_projects\XFtp\XFtp\obj\Debug\XFtp.exe
+F:\Workspace\Test_projects\XFtp\XFtp\obj\Debug\XFtp.pdb
